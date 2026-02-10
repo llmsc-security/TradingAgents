@@ -217,3 +217,22 @@ Please reference our work if you find *TradingAgents* provides you with some hel
       url={https://arxiv.org/abs/2412.20138}, 
 }
 ```
+
+
+
+
+
+
+---
+
+## Docker Deployment
+
+This repository has been Dockerized for easy deployment.
+
+- **Official Repository**: [TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)
+- **Dockerized by**: [llmsc-security](https://github.com/llmsc-security)
+- **Docker Image**: `TauricResearch--TradingAgents_image`
+- **Container**: `TauricResearch--TradingAgents_container`
+- **HTTP Service**: `http://127.0.0.1:11360`
+
+For Docker deployment and port mapping details, please visit our [Docker Directory](https://github.com/llmsc-security/docker-yuelin).
